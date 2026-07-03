@@ -75,8 +75,14 @@ A production-style CRUD application built with NestJS, TypeORM, authentication, 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lorenzoalberto&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoalberto&layout=compact&theme=github_dark&hide_border=true"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=lorenzoalberto&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoalberto&layout=compact&theme=transparent&hide_border=true"
+  />
 </p>
 
 ---
@@ -84,10 +90,10 @@ A production-style CRUD application built with NestJS, TypeORM, authentication, 
 ## Connect
 
 🌐 **Website**  
-https://lorenzoalberto.dev.br
+<a href="https://lorenzoalberto.dev.br" target="_blank">lorenzoalberto.dev.br</a>
 
 💼 **LinkedIn**  
-https://linkedin.com/in/lorenzoalberto-dev
+<a href="https://linkedin.com/in/lorenzoalberto-dev" target="_blank">linkedin.com/in/lorenzoalberto-dev</a>
 
 📧 **Email**  
-mailto:lorenzoalberto02@gmail.com
+<a href="mailto:lorenzoalberto02@gmail.com">lorenzoalberto02@gmail.com</a>
