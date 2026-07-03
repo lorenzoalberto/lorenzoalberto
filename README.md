@@ -1,8 +1,8 @@
 # Hi, I'm Lorenzo Alberto 👋
 
-I'm a Full Stack Developer from Brazil focused on designing and building reliable web applications, backend systems, and process automation solutions.
+I'm a Full Stack Developer from Brazil focused on building scalable web applications, backend systems, and business process automation.
 
-Currently, I develop production software for the notary and registry sector, working across the entire software lifecycle—from business requirements and architecture to deployment and maintenance.
+Currently developing mission-critical software for the notary and registry sector using TypeScript, React, Next.js, NestJS, Docker, and PostgreSQL.
 
 ---
 
@@ -32,7 +32,7 @@ Currently, I develop production software for the notary and registry sector, wor
   <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,nginx" />
 </p>
 
-### Other Experience
+### Additional Experience
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,flutter" />
@@ -42,13 +42,12 @@ Currently, I develop production software for the notary and registry sector, wor
 
 ## What I Build
 
-- Production-ready Full Stack web applications
-- RESTful APIs and backend services
-- Business process automation
-- Internal platforms and enterprise systems
-- Relational database design
-- Dockerized applications
-- Scalable and maintainable software architectures
+- Full Stack Web Applications
+- REST APIs
+- Software Architecture
+- Process Automation
+- Docker & Linux
+- Relational Databases
 
 ---
 
