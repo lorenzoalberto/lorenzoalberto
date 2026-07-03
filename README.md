@@ -35,7 +35,7 @@ Currently developing mission-critical software for the notary and registry secto
 ### Additional Experience
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,flutter" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,flutter,arduino" />
 </p>
 
 ---
