@@ -74,8 +74,8 @@ A production-style CRUD application built with NestJS, TypeORM, authentication, 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=lorenzoalberto&hide_title=true&include_all_commits=true&theme=github_dark_dimmed"/>
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=lorenzoalberto&langs_count=4&theme=github_dark_dimmed"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=lorenzoalberto&rank_icon=github&custom_title=Some%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=lorenzoalberto&layout=compact&langs_count=10&theme=dark"/>
 </p>
 
 ---
