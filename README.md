@@ -61,7 +61,7 @@ My personal website featuring projects, professional experience, technical skill
 
 A complete chess game implemented in Java using object-oriented programming principles.
 
-### 📰 Elderly Mortality Analysis
+### 📊 Elderly Mortality Analysis
 
 A data analysis project on hospital mortality among elderly patients, focusing on age- and sex-based patterns, the relationship between chronic comorbidities and mortality, leading causes of death, and healthcare factors influencing length of stay, clinical outcomes, quality of care, and the hospital unit where death occurred.
 
