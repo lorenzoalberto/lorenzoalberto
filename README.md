@@ -17,7 +17,7 @@ Currently developing mission-critical software for the notary and registry secto
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
 </p>
 
 ### Databases
@@ -29,13 +29,13 @@ Currently developing mission-critical software for the notary and registry secto
 ### DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git" />
 </p>
 
 ### Additional Experience
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,flutter,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,flutter,dart,arduino" />
 </p>
 
 ---
