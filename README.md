@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer from Brazil focused on building scalable web applications, backend systems, and business process automation.
 
-Currently developing mission-critical software for the notary and registry sector using TypeScript, React, Next.js, NestJS, Docker, and PostgreSQL.
+Currently developing mission-critical software for the notary and registry sector using TypeScript, React, Next.js, Docker, and MySQL.
 
 ---
 
