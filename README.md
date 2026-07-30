@@ -53,13 +53,13 @@ Currently developing mission-critical software for the notary and registry secto
 
 ## Featured Projects
 
-### 💼 Personal Portfolio
+### 💼 Portfolio
 
 My personal website featuring projects, professional experience, technical skills, and contact information.
 
-### ♟️ Terminal Chess
+### ⚖️ DataJud SDK
 
-A complete chess game implemented in Java using object-oriented programming principles.
+TypeScript SDK for integrating with the DataJud Public API (the official database of the Brazilian National Council of Justice - CNJ). It features lawsuit queries, pagination, validation, and full type safety. The repository is primarily in Brazilian Portuguese as it targets the Brazilian legal-tech community.
 
 ### 📊 Elderly Mortality Analysis
 
